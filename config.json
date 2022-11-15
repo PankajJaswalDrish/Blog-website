@@ -1,0 +1,21 @@
+{
+    "params": {
+        "websitename": "D_Blog_Spot",
+        "twitter_url": "https://twitter.com/D_Blog_Spot",
+        "fb_url":"https://facebook.com/D_Blog_Spot",
+        "git_url":"https://github.com/D_Blog_Spot",
+        "blog_name":"DrishBlog",
+        "main_page_heading" : "Blog",
+        "tagline": "Change The World With Your Words",
+        "gmail-user":"pankaj.singh@drishinfo.com",
+        "gmail-password":"Drish@1234",
+        "about_text": "Hi we are Softwrae Development Company. And we are continuously Rising",
+        "login_image" : "login-bg.jpg",
+        "admin_user":"drish",
+        "admin_password":"drishk",
+        "upload_location": "/home/pankaj/1A_Drish_Project/Drish_Python_Flask/Blog_Website",
+        "no.-of-post": 3
+
+
+    }
+}
